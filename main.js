@@ -3,6 +3,7 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const scraper = require('./scraper.js');
 const app = express();
+const port = process.env.PORT || 3000;
 const SITE_URL = "https://covid19.saglik.gov.tr/";
 
 async function getSite() {
@@ -20,4 +21,4 @@ app.get('/', async (req, res) => {
     await res.json(data);
 });
 
-app.listen(3000, () => console.log(`API listening at http://localhost:${3000}`));
+app.listen(port, () => console.log(`API listening at http://localhost:${port}`));
