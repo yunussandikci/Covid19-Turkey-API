@@ -1,0 +1,183 @@
+{
+  "today": {
+    "cases": 5138,
+    "deaths": 95,
+    "tests": 33170,
+    "healed": 542
+  },
+  "total": {
+    "tests": 340380,
+    "cases": 52167,
+    "intubatedCases": 1021,
+    "deaths": 1101,
+    "intensiveCases": 1626,
+    "healed": 2965
+  },
+  "timeline": [
+    {
+      "date": "10 MART 2020",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "date": "11 MART 2020",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "date": "12 MART 2020",
+      "cases": 1,
+      "deaths": 0
+    },
+    {
+      "date": "13 MART 2020",
+      "cases": 5,
+      "deaths": 0
+    },
+    {
+      "date": "14 MART 2020",
+      "cases": 6,
+      "deaths": 0
+    },
+    {
+      "date": "15 MART 2020",
+      "cases": 18,
+      "deaths": 0
+    },
+    {
+      "date": "16 MART 2020",
+      "cases": 47,
+      "deaths": 0
+    },
+    {
+      "date": "17 MART 2020",
+      "cases": 98,
+      "deaths": 1
+    },
+    {
+      "date": "18 MART 2020",
+      "cases": 191,
+      "deaths": 2
+    },
+    {
+      "date": "19 MART 2020",
+      "cases": 359,
+      "deaths": 4
+    },
+    {
+      "date": "20 MART 2020",
+      "cases": 670,
+      "deaths": 9
+    },
+    {
+      "date": "21 MART 2020",
+      "cases": 947,
+      "deaths": 21
+    },
+    {
+      "date": "22 MART 2020",
+      "cases": 1236,
+      "deaths": 30
+    },
+    {
+      "date": "23 MART 2020",
+      "cases": 1529,
+      "deaths": 37
+    },
+    {
+      "date": "24 MART 2020",
+      "cases": 1872,
+      "deaths": 44
+    },
+    {
+      "date": "25 MART 2020",
+      "cases": 2433,
+      "deaths": 59
+    },
+    {
+      "date": "26 MART 2020",
+      "cases": 3629,
+      "deaths": 75
+    },
+    {
+      "date": "27 MART 2020",
+      "cases": 5698,
+      "deaths": 92
+    },
+    {
+      "date": "28 MART 2020",
+      "cases": 7402,
+      "deaths": 108
+    },
+    {
+      "date": "29 MART 2020",
+      "cases": 9217,
+      "deaths": 131
+    },
+    {
+      "date": "30 MART 2020",
+      "cases": 10827,
+      "deaths": 168
+    },
+    {
+      "date": "31 MART 2020",
+      "cases": 13531,
+      "deaths": 214
+    },
+    {
+      "date": "1 NİSAN 2020",
+      "cases": 15679,
+      "deaths": 277
+    },
+    {
+      "date": "2 NİSAN 2020",
+      "cases": 18135,
+      "deaths": 356
+    },
+    {
+      "date": "3 NİSAN 2020",
+      "cases": 20921,
+      "deaths": 425
+    },
+    {
+      "date": "4 NİSAN 2020",
+      "cases": 23934,
+      "deaths": 501
+    },
+    {
+      "date": "5 NİSAN 2020",
+      "cases": 27069,
+      "deaths": 574
+    },
+    {
+      "date": "6 NİSAN 2020",
+      "cases": 30217,
+      "deaths": 649
+    },
+    {
+      "date": "7 NİSAN 2020",
+      "cases": 34109,
+      "deaths": 725
+    },
+    {
+      "date": "8 NİSAN 2020",
+      "cases": 38226,
+      "deaths": 812
+    },
+    {
+      "date": "9 NİSAN 2020",
+      "cases": 42282,
+      "deaths": 908
+    },
+    {
+      "date": "10 NİSAN 2020",
+      "cases": 47029,
+      "deaths": 1006
+    },
+    {
+      "date": "11 NİSAN 2020",
+      "cases": 52167,
+      "deaths": 1101
+    }
+  ]
+} 
