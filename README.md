@@ -3,8 +3,8 @@ This a basic api implementation which scrapes `https://covid19.saglik.gov.tr/` a
 It uses `axios` for getting site data, `cheerio` for scraping and `express` for a request handler.
 
 # Capabilities
-  - Tests, cases, deaths, healed person counts of Today.
-  - Total count of healed, intubated, intensive, death, case and tests.
+  - Tests, cases, deaths, recovered patient counts of Today.
+  - Total count of recovered, intubated, intensive, death, case and tests.
   - Time-series of case and deaths.
 
 ## Installation and Run
