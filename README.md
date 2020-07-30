@@ -4,7 +4,7 @@ It uses `axios` for getting site data, `cheerio` for scraping and `express` for 
 
 # Capabilities
   - Tests, cases, deaths, recovered patient counts of Today.
-  - Total count of recovered, intubated, intensive, death, case and tests.
+  - Total recovered cases, pneumonia rate, seriously ills, deaths, all cases and tests.
   - Time-series of case and deaths.
 
 ## Installation and Run
