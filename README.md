@@ -1,6 +1,6 @@
 ## Not maintained anymore since they provided an API
-https://covid19.saglik.gov.tr/covid19api?getir=sondurum
-https://covid19.saglik.gov.tr/covid19api?getir=liste (edited) 
+- https://covid19.saglik.gov.tr/covid19api?getir=sondurum
+- https://covid19.saglik.gov.tr/covid19api?getir=liste
 
 # Covid-19 Turkey API
 This a basic api implementation which scrapes `https://covid19.saglik.gov.tr/` and returns data that scraped in meaningful json.
